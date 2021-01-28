@@ -10,6 +10,8 @@ On the front end, you will need to be highly conscious of who your user is and h
 
 In the following lessons, you'll get a healthy understanding of each of the three front-end languages. To get warmed up, we'll start at the high level.
 
+*Note: The native application "TextEdit" on Mac doesn't work great for coding/web design. We recommend downloading one of the many other free Text Editors out there.
+
 ### Learning Outcomes
 Look through these now and then use them to test yourself after doing the assignment:
 
